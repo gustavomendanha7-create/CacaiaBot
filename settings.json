@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "SetoitoBOT",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Survival-LATA",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Survival-LATA.aternos.me:22914",
+    "port": 22914,
+    "version": "1.26.2",
     "try-creative": false
   },
   "position": {
@@ -19,8 +19,8 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
-      "password": "chalol78"
+      "enabled": false,
+      "password": ""
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Sabia que o Sabia sabe assubiar?",
+        "Survival-LATA é incrivel!",
+        "eu amo Minecraft!"
       ]
     },
     "chat-log": true,
